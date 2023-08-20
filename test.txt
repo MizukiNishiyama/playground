@@ -1,3 +1,6 @@
 test code
 hello Paul
 hello Emily
+
+i am a student
+we are in the same school
