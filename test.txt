@@ -11,3 +11,5 @@ C
 change for stash
 for reset 
 there was a mistake and i fixed it
+add for conflict 
+fix for conflict
