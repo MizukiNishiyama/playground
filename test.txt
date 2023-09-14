@@ -4,3 +4,10 @@ hello Emily
 
 i am a student
 we are in the same school
+
+A
+B
+C
+change for stash
+for reset 
+there was a mistake and i fixed it
