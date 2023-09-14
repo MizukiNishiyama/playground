@@ -8,3 +8,5 @@ we are in the same school
 A
 B
 C
+change for stash
+for reset
