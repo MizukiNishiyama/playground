@@ -4,3 +4,7 @@ hello Emily
 
 i am a student
 we are in the same school
+
+A
+B
+C
